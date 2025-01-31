@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying Full-Stack Web Development at I.E.S. San Vicente.<br>⚡ Always creating new projects I enjoy and learning the latest technologies <br> 🇪🇸 My flags: 🏳️‍🌈🏳️‍⚧️, Openly and proudly transsexual woman
+🌱 I’m currently studying Full-Stack Web Development at I.E.S. San Vicente.<br>⚡ Always creating new projects I enjoy and learning the latest technologies
 
 
 # 💻 Tech Stack:
